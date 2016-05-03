@@ -7,6 +7,8 @@ public class OlaMundo {
 		System.out.println("Ola Mundo GitHub");
 		
 		System.out.println("Editando arquivo");
+		
+		System.out.println("Projeto clonado!!");
 	}
 
 }
